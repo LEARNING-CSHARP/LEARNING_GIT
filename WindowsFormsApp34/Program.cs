@@ -14,7 +14,7 @@ namespace WindowsFormsApp34
 		[STAThread]
 		static void Main()
 		{
-			// اولین تغییر
+			// دومین تغییر
 
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
